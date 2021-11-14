@@ -6,6 +6,7 @@ Including the basic moving functions or arm and basic sensors test with gazebo s
 contributed by Haochen Zhang and Yuxuan Guo <br />
 ##Update 2
 11/13/2021 <br />
+## Update 2
 ### What We have done
 1. We changed simulation tool from gazebo to coppeliasim <br />
 2. We use the python remote api from coppeliasim to implement the most functionality of the drawing robot. <br />
